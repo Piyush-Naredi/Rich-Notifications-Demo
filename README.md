@@ -1,7 +1,7 @@
 # Rich-Notifications-Demo
 
 
- What are Rich Notifications?
+ ## What are Rich Notifications?
 - Rich Push Notifications introduced in iOS 10 is an advancement of Push Notifications which allow you to add Rich data like image, video, audio or gif attachments to your push notifications.
 - Rich notification essentially push notifications that support photos, videos, gifs and even audio. They can also include interactive buttons also.
 - By using Rich Notifications you can provide an effective UI to your notifications. Below screenshots shows the importance of Rich Notifications from old Push Notifications:
