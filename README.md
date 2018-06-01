@@ -11,4 +11,4 @@
 
 
 ## Process of implementing Rich Notifications:
-![alt text] (http://server.myspace-shack.com/d23/af15a1f0-472b-41af-a84b-90d46e46f732.jpg)
+![alt text](https://cdn1.savepice.ru/uploads/2018/6/1/740d72cbfbf91599c0a9c7aa79bc0f2c-full.jpg)
